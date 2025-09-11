@@ -23,7 +23,7 @@
 ### About me:
 
 - :computer: I like coding.
-- :timer_clock: In my free time, I usually try learning something new about computers or programming languages.
+- :timer_clock: In my free time, I usually try to learn something new about computers or programming languages.
 - :star: My favorite programming language is C.
 
 ---

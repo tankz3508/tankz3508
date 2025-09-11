@@ -20,8 +20,6 @@
 
 </div>
 
----
-
 ### Languages I know:
 
 <div>

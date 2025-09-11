@@ -13,3 +13,5 @@
     <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=tankz3508&style=flat-square&color=blue" alt=""/>

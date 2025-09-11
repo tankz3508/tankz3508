@@ -27,3 +27,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/> 
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tankz3508&theme=dark&background=000000)](https://git.io/streak-stats)

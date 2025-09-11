@@ -32,6 +32,5 @@
 
 ### My stats:
 
-<div align"center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tankz3508&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tankz3508&theme=dark&background=000000)](https://git.io/streak-stats)
+

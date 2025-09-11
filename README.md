@@ -20,6 +20,14 @@
 
 </div>
 
+### About me:
+
+- :computer: I like coding.
+- :time: In my free time, I usually try learning something new about computers or programming languages.
+- :star: My favorite programming language is C.
+
+---
+
 ### Languages I know:
 
 <div align="center">

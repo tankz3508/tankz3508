@@ -20,6 +20,8 @@
 
 </div>
 
+---
+
 ### Languages I know:
 
 <div>
@@ -27,6 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/> 
 </div>
+
+---
 
 ### My stats:
 

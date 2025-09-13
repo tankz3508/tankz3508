@@ -20,13 +20,6 @@
 
 </div>
 
-### About me:
-
-- :computer: I like coding.
-- :timer_clock: In my free time, I usually try to learn something new about computers or programming languages.
-- :star: My favorite programming language is C.
-
----
 
 ### Languages I know:
 
@@ -36,12 +29,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/> 
 </div>
-
----
-
-### My stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tankz3508&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankz3508&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
